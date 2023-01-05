@@ -5,6 +5,11 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Final Product
 
 !["Home Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/Home.png)
+!["Product list Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/Product_list.png)
+!["Product detail Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/Product_detail.png)
+!["My cart Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/My_cart.png)
+!["Admin product list Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/Admin_product_list.png)
+!["Admin categories Page Screenshot"](https://github.com/patelheta/jungle/blob/master/docs/Admin_categories.png)
 
 ## Setup
 
